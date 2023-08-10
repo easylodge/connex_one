@@ -1,6 +1,5 @@
 require "httparty"
 require "active_record"
-require "pry"
 
 require 'connex_one_client/customers'
 
