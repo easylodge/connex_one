@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    connex_one_client (1.0.0)
+    connex_one_client (1.0.2)
       activesupport
       httparty
 
