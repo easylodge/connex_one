@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require_relative 'lib/connex_one_client/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "connex_one"
+  spec.name          = "connex_one_client"
   spec.version       = ConnexOneClient::VERSION
   spec.authors       = ["Matt Clarke"]
   spec.email         = ["matt.clarke85@gmail.com"]
